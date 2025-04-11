@@ -32,7 +32,7 @@ The dashboard maintains transparency of the 100% total rate by including unknown
 
 ## 🖼 Dashboard Preview
 
-![Dashboard Preview](HR Attendance Dashboard.jpg)
+![Dashboard Preview](dashboard-screenshot.jpg)
 
 > 📁 Open the `.pbix` file in Power BI Desktop to explore the interactive dashboard.
 
